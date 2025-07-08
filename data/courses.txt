@@ -1,0 +1,4 @@
+Pyhton,Easy language
+Java ,Intermediate language
+c,very imp language
+c++,this is oops language
